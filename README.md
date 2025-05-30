@@ -1,5 +1,4 @@
 # calculator-project-for-Micro-IT
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
